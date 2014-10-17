@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hoc:home|Door43 (hoc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hoc|d43-hoc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hoc/archive/master.zip|d43-hoc.zip]]
+
+**Recent Changes**
+{{changes>ns = hoc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hoc|Ethnologue data]]
+
